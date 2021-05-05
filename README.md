@@ -1,0 +1,1 @@
+# Implementación de un Percetrón Simple para el problema del XOR
